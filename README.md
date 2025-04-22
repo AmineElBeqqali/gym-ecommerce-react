@@ -1,6 +1,5 @@
 # Gym E-commerce React Application
 
-![Gym E-commerce](https://via.placeholder.com/800x400?text=Gym+E-commerce+App)
 
 ## 📋 Overview
 
@@ -100,12 +99,6 @@ gym-ecommerce-react/
 ├── README.md            # Project documentation
 └── tailwind.config.js   # Tailwind CSS configuration
 ```
-
-## 📱 Screenshots
-
-![Home Page](https://via.placeholder.com/400x300?text=Home+Page)
-![Product Page](https://via.placeholder.com/400x300?text=Product+Page)
-![Shopping Cart](https://via.placeholder.com/400x300?text=Shopping+Cart)
 
 ## 🔮 Future Enhancements
 
