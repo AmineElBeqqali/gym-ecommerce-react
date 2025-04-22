@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "title": "Leg Extension Machine",
+        "price": 799.99,
+        "description": "This leg extension machine is perfect for targeting and strengthening your quadriceps. Built with durable materials and an ergonomic design, it ensures smooth motion and optimal comfort during workouts.",
+        "category": "gym equipment",
+        "image": "/images/27-028-hammer-strength-select-leg-extension-image-new.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 150
+        }
+    },
+    {
+        "id": 2,
+        "title": "Barbell Bars (Set of 5)",
+        "price": 89.99,
+        "description": "A set of premium barbell bars suitable for all types of weightlifting. Includes straight and curl bars, crafted with high-grade steel for durability and anti-slip grip.",
+        "category": "gym equipment",
+        "image": "/images/barbell-bars1.png",
+        "rating": {
+            "rate": 4.6,
+            "count": 320
+        }
+    },
+    {
+        "id": 3,
+        "title": "Chest Press Bench",
+        "price": 299.99,
+        "description": "Enhance your strength training with this adjustable chest press bench. Designed for durability and comfort, it is ideal for bench presses and other upper body exercises.",
+        "category": "gym equipment",
+        "image": "/images/chest_press.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 180
+        }
+    },
+    {
+        "id": 4,
+        "title": "Concept2 Rowing Machine",
+        "price": 949.00,
+        "description": "A high-quality rowing machine that delivers an effective full-body workout. Equipped with advanced performance tracking, it is perfect for cardio and endurance training.",
+        "category": "gym equipment",
+        "image": "/images/concept2_rowerg.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 500
+        }
+    },
+    {
+        "id": 5,
+        "title": "Hex Dumbbells (Set of 5)",
+        "price": 149.99,
+        "description": "This set of hex dumbbells is perfect for strength training. Each dumbbell is made with durable cast iron and features a non-slip grip for a secure hold.",
+        "category": "gym equipment",
+        "image": "/images/dumbells.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 350
+        }
+    },
+    {
+        "id": 6,
+        "title": "Foldable Treadmill",
+        "price": 699.99,
+        "description": "A foldable treadmill with multiple speed settings and a compact design. It features a digital monitor to track time, distance, speed, and calories burned.",
+        "category": "gym equipment",
+        "image": "/images/foldable-treadmill.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 210
+        }
+    },
+    {
+        "id": 7,
+        "title": "Foam Roller with Massage Features",
+        "price": 39.99,
+        "description": "A versatile foam roller designed for deep tissue massage and muscle recovery. Its durable design ensures long-lasting performance.",
+        "category": "gym accessories",
+        "image": "/images/leg_massage.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 8,
+        "title": "Men’s Compression Shirt",
+        "price": 25.99,
+        "description": "This compression shirt is made with breathable fabric for maximum comfort during workouts. Perfect for gym sessions or outdoor activities.",
+        "category": "gym apparel",
+        "image": "/images/Men-compression-shirt.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 200
+        }
+    },
+    {
+        "id": 9,
+        "title": "Pull-Up Bar with Multi-Grip",
+        "price": 49.99,
+        "description": "A versatile pull-up bar with multiple grip options for varied upper body workouts. Sturdy and easy to install.",
+        "category": "gym equipment",
+        "image": "/images/Multigrip.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 280
+        }
+    },
+    {
+        "id": 10,
+        "title": "Smith Machine",
+        "price": 999.99,
+        "description": "A heavy-duty Smith machine for a variety of strength training exercises. Its smooth gliding system ensures safety and ease of use.",
+        "category": "gym equipment",
+        "image": "/images/smith-machine.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 150
+        }
+    },
+    {
+        "id": 11,
+        "title": "Women’s T-Shirts (Pack of 5)",
+        "price": 39.99,
+        "description": "Comfortable and stylish t-shirts made from breathable fabric. Ideal for gym sessions or casual wear.",
+        "category": "gym apparel",
+        "image": "/images/t-shirt_woman.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 200
+        }
+    },
+    {
+        "id": 12,
+        "title": "Yoga Mat with Carrying Strap",
+        "price": 19.99,
+        "description": "A premium yoga mat with a non-slip surface for added stability. Includes a carrying strap for easy transport.",
+        "category": "gym accessories",
+        "image": "/images/Yoga-mat.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 300
+        }
+    }
+]
